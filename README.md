@@ -31,4 +31,3 @@
 <img src="logos\tailwind-logo.svg" width="180"><br>
 
 <br>
-<img src="https://api.iconify.design/logos:batch.svg" width="180"><br>
